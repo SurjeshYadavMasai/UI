@@ -1,0 +1,46 @@
+{
+  "userInfo": [
+    {
+      "id" : 1,
+      "imgUrl" : "",
+      "name" : "Aman Gupta",
+      "email" :  "Aman@gmail.com",
+      "contactNo" : "+91-7567375843"
+  },
+  {
+      "id" : 2,
+      "imgUrl" : "",
+      "name" : "Arvind Kumar",
+      "email" :  "arvind@gmail.com",
+      "contactNo" : "+91- 76857847545"
+  },
+  {
+      "id" : 3,
+      "imgUrl" : "",
+      "name" : "Abdul Khaliq",
+      "email" :  "andul@gmail.com",
+      "contactNo" : "+91- 6374840457"
+  },
+  {
+      "id" : 4,
+      "imgUrl" : "",
+      "name" : "Vikash Saxena",
+      "email" :  "vikash@gmail.com",
+      "contactNo" : "+91- 568904576849"
+  },
+  {
+      "id" : 5,
+      "imgUrl" : "",
+      "name" : "Surjesh Yadav",
+      "email" :  "surjesh@gmail.com",
+      "contactNo" : "+91- 6356890457"
+  },
+  {
+      "id" : 6,
+      "imgUrl" : "",
+      "name" : "Satyam Yadav",
+      "email" :  "satyam@gmail.com",
+      "contactNo" : "+91- 689045754784"
+  }
+  ]
+}

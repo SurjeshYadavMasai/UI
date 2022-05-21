@@ -1,0 +1,28 @@
+.users{
+    width : 30%;
+    min-height:70vh;
+    background-color: rgb(244, 244, 229);
+    margin:auto;
+    padding: 20px;
+    margin-top: 30px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+   
+}
+.usersInfo{
+    display : flex;
+    border-bottom: 2px solid rgb(184, 179, 179);
+    text-align: left;
+    margin:20px;
+    cursor: pointer;
+
+}
+.image{
+    /* border: 2px solid red; */
+
+ padding-top: 5px;
+}
+.user-email{
+    margin-left: 20px;
+    /* border: 2px solid black; */
+    margin-top: -20px;
+}
